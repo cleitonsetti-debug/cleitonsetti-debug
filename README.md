@@ -38,7 +38,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 site do re4 – https://cleitonsetti-debug.github.io/re4/#Vis%C3%A3o%20geral%20do%20jogo  
+📌 projeto 1 - [site do resident evil 4 remake] https://cleitonsetti-debug.github.io/re4/#Vis%C3%A3o%20geral%20do%20jogo  
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto]  
 
