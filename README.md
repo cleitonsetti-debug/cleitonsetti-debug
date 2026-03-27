@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Cleiton Setti
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação. (senai) contratado pela empresa SEARA ALIMENTOS
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação. (SENAI) contratado pela empresa SEARA ALIMENTOS
 
-🎓 Estudante da 1º serie do esnsino medio da escola estadual EEB Cecilia Vivan 2026
+🎓 Estudante da 1º Ano do esnsino medio da Escola Estadual basica Cecilia Viva 2026
 
 
 
