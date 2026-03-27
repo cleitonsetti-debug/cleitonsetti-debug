@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Cleiton Setti
 
-🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação
+🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação, contratado pela empresa JBS
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
