@@ -2,7 +2,7 @@
 
 🎓 Estudante da Aprendizagem Industrial em Programador de Sistemas da Informação. (SENAI) contratado pela empresa SEARA ALIMENTOS
 
-🎓 Estudante da 1º Ano do esnsino medio da Escola Estadual basica Cecilia Viva 2026
+🎓 Estudante do 1º Ano do Esnsino Medio da Escola Estadual Basica Cecilia Viva
 
 
 
